@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanTanDat-b6-b1a-Server", "PhanTanDat-b6-b1a-Server\PhanTanDat-b6-b1a-Server.csproj", "{A03C8392-5E72-4D29-BD44-832D3E8BFB48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanTanDat-b6-b1a-Client", "PhanTanDat-b6-b1a-Client\PhanTanDat-b6-b1a-Client.csproj", "{63305429-E765-4A92-9C26-7721768A019E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanTanDat-b6-b1b-Server", "PhanTanDat-b6-b1b-Server\PhanTanDat-b6-b1b-Server.csproj", "{3C85E96D-9D1A-4684-89B7-4A33CC344A83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanTanDat-b6-b1b-Client", "PhanTanDat-b6-b1b-Client\PhanTanDat-b6-b1b-Client.csproj", "{1A715AAB-CED5-4FB0-A994-F4970E0995C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03C8392-5E72-4D29-BD44-832D3E8BFB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03C8392-5E72-4D29-BD44-832D3E8BFB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03C8392-5E72-4D29-BD44-832D3E8BFB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03C8392-5E72-4D29-BD44-832D3E8BFB48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63305429-E765-4A92-9C26-7721768A019E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63305429-E765-4A92-9C26-7721768A019E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63305429-E765-4A92-9C26-7721768A019E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63305429-E765-4A92-9C26-7721768A019E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C85E96D-9D1A-4684-89B7-4A33CC344A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C85E96D-9D1A-4684-89B7-4A33CC344A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C85E96D-9D1A-4684-89B7-4A33CC344A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C85E96D-9D1A-4684-89B7-4A33CC344A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A715AAB-CED5-4FB0-A994-F4970E0995C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A715AAB-CED5-4FB0-A994-F4970E0995C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A715AAB-CED5-4FB0-A994-F4970E0995C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A715AAB-CED5-4FB0-A994-F4970E0995C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
